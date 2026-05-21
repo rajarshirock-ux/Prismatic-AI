@@ -19,3 +19,74 @@ bin-release/
 # information file location debug {.project.}
 # should not exceed value 9-15 
 # should clear bug 4.6771>br
+bin-debug
+bin-release/
+[Oo]bj/
+[Bb]in/
+# Build and Release Folders
+# repositry 791
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+# information file location debug {.project.}
+# should not exceed value 9-15 
+# should clear bug 4.6771>br
+bin-debug
+bin-release/
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+# information file location debug {.project.}
+# should not exceed value 9-15 
+# should clear bug 4.6771>br
+bin-debug
+bin-release/
+toggle off
+# Build and Release Folders
+# repositry 791
+# Executables
+# Build and Release Folders
+# repositry 791
+# Executables
+# repositry 791
+# Executables
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
